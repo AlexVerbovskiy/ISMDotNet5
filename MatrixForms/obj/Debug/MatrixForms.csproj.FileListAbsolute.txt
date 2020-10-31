@@ -1,0 +1,10 @@
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Debug\MatrixForms.exe.config
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Debug\MatrixForms.exe
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Debug\MatrixForms.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.csprojAssemblyReference.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.MatrixForms.resources
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.Properties.Resources.resources
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.csproj.GenerateResource.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.exe
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Debug\MatrixForms.pdb

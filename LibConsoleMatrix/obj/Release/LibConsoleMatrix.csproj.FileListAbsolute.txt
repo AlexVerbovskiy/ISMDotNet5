@@ -1,0 +1,5 @@
+C:\Users\38067\source\repos\ISMDotNet5\LibConsoleMatrix\bin\Release\LibConsoleMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\LibConsoleMatrix\bin\Release\LibConsoleMatrix.pdb
+C:\Users\38067\source\repos\ISMDotNet5\LibConsoleMatrix\obj\Release\LibConsoleMatrix.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\LibConsoleMatrix\obj\Release\LibConsoleMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\LibConsoleMatrix\obj\Release\LibConsoleMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\bin\Release\LibFormsMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\bin\Release\LibFormsMatrix.pdb
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\obj\Release\LibFormsMatrix.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\obj\Release\LibFormsMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\obj\Release\LibFormsMatrix.pdb
+C:\Users\38067\source\repos\ISMDotNet5\LibFormsMatrix\obj\Release\LibFormsMatrix.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.exe
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.deps.json
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.runtimeconfig.json
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.runtimeconfig.dev.json
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.dll
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\MatrixConsole.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.csprojAssemblyReference.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.AssemblyInfoInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.AssemblyInfo.cs
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.dll
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.genruntimeconfig.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\LibConsoleMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\bin\Debug\netcoreapp3.1\LibConsoleMatrix.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixConsole\obj\Debug\netcoreapp3.1\MatrixConsole.csproj.CopyComplete

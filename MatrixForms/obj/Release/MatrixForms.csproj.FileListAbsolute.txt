@@ -1,0 +1,15 @@
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.MatrixForms.resources
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.Properties.Resources.resources
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.csproj.GenerateResource.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\MatrixForms.exe.config
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\MatrixForms.exe
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\MatrixForms.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.exe
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\ClassLibraryArrays.dll
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\LibFormsMatrix.dll
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\LibFormsMatrix.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\bin\Release\ClassLibraryArrays.pdb
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.csprojAssemblyReference.cache
+C:\Users\38067\source\repos\ISMDotNet5\MatrixForms\obj\Release\MatrixForms.csproj.CopyComplete
