@@ -137,11 +137,9 @@ namespace LibConsoleMatrix
             int k5 = 0, counter5 = 0, kr = 0;
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
-                for (int indexel5 = 0; indexel5 < matrix.GetLength(1); indexel5++)
-                {
-                    for (int j = 0; j < matrix.GetLength(1); j++)
+                    for (int j = 1; j < matrix.GetLength(1); j++)
                     {
-                        if (matrix[i, j] == matrix[i, indexel5])
+                        if (matrix[i, j] == matrix[i, j-1])
                         {
                             counter5++;
                         }
@@ -149,10 +147,9 @@ namespace LibConsoleMatrix
                     if (counter5 > k5)
                     {
                         k5 = counter5;
-                        kr = i+1;
+                        kr = i;
                     }
                     counter5 = 0;
-                }
             }
             return kr;
         }//Номер рядка з найбільшою к-стю однакових рядків_5
